@@ -12,7 +12,7 @@ on:
 env:
   REPO_URL: https://github.com/openwrt/openwrt.git
   REPO_BRANCH: openwrt-24.10
-  OpenWRTDevice: Beryl_gl-mt3000
+  OpenWRTDevice: cudy_re3000
   CONFIG_FILE: .config
   TZ: Europe/Berlin
 
