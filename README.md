@@ -1,2 +1,2 @@
-# OpenWRT_glinet-gl-mt3000
-Gli MT3000
+# OpenWRT_cudy-re3000
+cudy RE3000
